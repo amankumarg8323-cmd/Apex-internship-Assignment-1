@@ -1,0 +1,13 @@
+Order_ID,Branch,Product,Category,Quantity,Unit_Price,Sales,Customer_Type
+1001,North,Laptop,Electronics,2,55000,110000,New
+1002,South,Phone,Electronics,3,18000,54000,Returning
+1003,East,Tablet,Electronics,1,25000,25000,New
+1004,West,Headphones,Accessories,5,2000,10000,Returning
+1005,North,Laptop,Electronics,1,52000,52000,New
+1006,South,Phone,Electronics,2,19000,38000,Returning
+1007,East,Tablet,Electronics,4,24000,96000,New
+1008,West,Headphones,Accessories,3,2200,6600,Returning
+1009,North,Laptop,Electronics,2,56000,112000,New
+1010,South,Phone,Electronics,1,17500,17500,Returning
+1011,East,Tablet,Electronics,3,26000,78000,New
+1012,West,Headphones,Accessories,2,2100,4200,Returning
